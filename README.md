@@ -8,6 +8,8 @@ Este projeto eu entendi como se concentra os componentes essenciais da arquitetu
 Sou um entusiasta da tecnologia e apaixonado por resolver problemas. Meu sonho é ser um profissional em nuvem e ajudar empresas a crescerem seus negócios
 com as tecnologias mais atuais. Atualmente, minha área de atuação é **Analista de Suporte Pleno** mas a desejada é **DevOps Cloud** ou **Arquiteto de Cloud**.
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeandroOmenezes&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ### Arquitetura e serviços do Azure
 
 ### AZ-900 : Introdução aos Conceitos Básicos do Microsoft Azure
@@ -189,20 +191,18 @@ Este projeto descreve a implementação de uma infraestrutura de rede na nuvem A
 ## Conclusão
 A implementação de uma rede na nuvem Azure oferece diversos benefícios para empresas de grande porte, incluindo escalabilidade, segurança, eficiência operacional, redução de custos e continuidade de negócios. Este projeto visa proporcionar uma infraestrutura robusta e segura, alinhada com as necessidades de crescimento e inovação da empresa.
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeandroOmenezes&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 [!VIDEO](https://www.youtube.com/watch?v=-wYGVqMzcVA)
 
 > [!NOTE]
  >
 > Uma conta pode conter diversas assinaturas, e uma assinatura só podem responder apenas uma única conta AZURE
 
-![alt text](assets/no-localize/image-name.png)
+![Imagem do Portal AZURE](assets/no-localize/image-name.png)
 
 ## 💙 Projetos e Interesses
 
 - Estou sempre buscando aprender mais sobre Cloud e minha primeira certificação AZ-900.
 - Sou aluno da DIO.ME e estou estudando **Cloud** em parceria com **Microsoft AZURE**  .
-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://letflixmenezes.netlify.app)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://[].app)
 - ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
 - ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
