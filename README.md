@@ -32,6 +32,10 @@ com as tecnologias mais atuais. Atualmente, minha área de atuação é **Analis
 * Conta de estudante gratuita do Azure
 * Área restrita do Microsoft Learn
 
+> [!NOTE]
+ >
+> Uma conta pode conter diversas assinaturas, e uma assinatura só pode responder apenas para uma única conta AZURE!
+
 ### Regiões
 
 * O Azure oferece mais regiões globais do que qualquer outro provedor de nuvem, com mais de 60 regiões representando mais de 140 países
@@ -83,6 +87,8 @@ Os recursos podem existir em diferentes regiões.
 Os recursos podem ser movidos para diferentes 
 grupos de recursos. 
 Os aplicativos podem utilizar vários grupos de recursos.
+
+![Imagem do Portal AZURE](PROJETO_LAB1.png)
  
 ### Assinaturas do Azure
 
@@ -119,6 +125,8 @@ e grupos de gerenciamento.
 Este projeto descreve a implementação de uma infraestrutura de rede na nuvem Azure para uma empresa de grande porte. A solução visa melhorar a escalabilidade, segurança, e eficiência operacional.
 
 ## Arquitetura da Rede
+
+![Imagem do Portal AZURE](VNET1.png)
 
 ### 1. Rede Virtual (VNet)
 - **Descrição**: Criação de uma VNet para isolar e segmentar a rede.
@@ -190,14 +198,6 @@ Este projeto descreve a implementação de uma infraestrutura de rede na nuvem A
 
 ## Conclusão
 A implementação de uma rede na nuvem Azure oferece diversos benefícios para empresas de grande porte, incluindo escalabilidade, segurança, eficiência operacional, redução de custos e continuidade de negócios. Este projeto visa proporcionar uma infraestrutura robusta e segura, alinhada com as necessidades de crescimento e inovação da empresa.
-
-[!VIDEO](https://www.youtube.com/watch?v=-wYGVqMzcVA)
-
-> [!NOTE]
- >
-> Uma conta pode conter diversas assinaturas, e uma assinatura só podem responder apenas uma única conta AZURE
-
-![Imagem do Portal AZURE](assets/no-localize/image-name.png)
 
 ## 💙 Projetos e Interesses
 
